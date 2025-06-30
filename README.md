@@ -68,8 +68,12 @@ This project explores the process and patterns of **internal migration** from bo
 
 ## 👩‍💼 Author
 
-**Vaibhavi Sanjay Kalmegh**  
-📍 G.V.I.S.H., Amravati  
-🎓 M.Sc. Statistics (2023)
+## Author
+Vaibhavi Kalmegh
+📍 G.V.I.S.H., Amravati
+🎓 M.Sc. in Statistics (2023) 
+Follow me on:  
+🔗 [GitHub](https://github.com/vaibhavikalmegh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/vaibhavikalmegh18)
 
 ---
